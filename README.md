@@ -9,4 +9,4 @@ the task description can be found [HERE](https://github.com/abir006/MultiThread-
 Implementing Semaphore and PCQueue (which is independant on the Semaphore).
 
 ## Part2
-Implementing the game using PCQueue (which is dependant on the semaphore implementation).
+Implementing the multi-thread game using a thread pool, where each thread gets a task from the PCQueue while using semaphores for syncronizing.
